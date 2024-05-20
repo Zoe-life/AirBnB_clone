@@ -1,4 +1,4 @@
-# Airbnb_clone-the_console
+#AirBnB_clone
 Welcome to the AirBnB clone project!
 
 CONCEPT RESOURCES
